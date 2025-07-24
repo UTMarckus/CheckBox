@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CheckBox</string>
+    <string name="question_tv_text">What PL do you like?</string>
+    <string name="checkbox_1">Kotlin</string>
+    <string name="checkbox_2">Java</string>
+    <string name="checkbox_3">Python</string>
 </resources>
